@@ -1,0 +1,29 @@
+{
+    "name": "OKN 同心円トレーニング",
+    "short_name": "OKN同心円",
+    "description": "同心円パターンによる視運動性眼振（OKN）トレーニングアプリ",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "orientation": "any",
+    "background_color": "#0a0a0a",
+    "theme_color": "#1a1a2e",
+    "icons": [
+        {
+            "src": "FNT512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "FNT512.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": ["health", "medical", "lifestyle"],
+    "lang": "ja",
+    "dir": "ltr",
+    "scope": "./",
+    "prefer_related_applications": false
+}
